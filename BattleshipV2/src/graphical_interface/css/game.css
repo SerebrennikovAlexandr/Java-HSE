@@ -1,0 +1,15 @@
+.root{
+    -fx-background-image: url(battle.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: left top;
+    -fx-background-size: 720 480;
+}
+
+.button:focused {
+    -fx-border-color: #FF0000;
+}
+
+#panel {
+    -fx-background-image: url(panel.jpg);
+    -fx-background-repeat: stretch;
+}

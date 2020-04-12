@@ -1,0 +1,18 @@
+.root{
+    -fx-background-image: url(senkan.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: left top;
+}
+
+.button {
+    -fx-background-color: #E8E8E8;
+}
+
+.button:hover {
+    -fx-background-color: #FFA54F;
+}
+
+.button:focused {
+    -fx-border-color: #FFA54F;
+}
